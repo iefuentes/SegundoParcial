@@ -1,0 +1,30 @@
+{
+  "aislar" : [ {
+    "barrio" : "Centro",
+    "kit" : 1,
+    "temperatura" : 38.95559890982108
+  }, {
+    "barrio" : "Sierras",
+    "kit" : 3,
+    "temperatura" : 38.80176480929105
+  }, {
+    "barrio" : "Cerrito",
+    "kit" : 5,
+    "temperatura" : 38.43981700296262
+  } ],
+  "sanos" : [ {
+    "barrio" : "Serena",
+    "apellido" : "Gomez",
+    "ocupacion" : "Enfermera",
+    "nombre" : "Juliana",
+    "edad" : 25,
+    "dni" : "87654321"
+  }, {
+    "barrio" : "Colinas",
+    "apellido" : "López",
+    "ocupacion" : "Maestra",
+    "nombre" : "María",
+    "edad" : 35,
+    "dni" : "56789012"
+  } ]
+}
